@@ -2,55 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rohan Khurana</title>
-    <link>https://rohan20k.github.io/about/</link>
+    <link>https://rohan20k.github.io/</link>
     <description>Recent content on Rohan Khurana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rohan20k.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rohan20k.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://rohan20k.github.io/about/experience/</link>
+      <link>https://rohan20k.github.io/experience/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rohan20k.github.io/about/experience/</guid>
+      <guid>https://rohan20k.github.io/experience/</guid>
       <description>EXPERIENCE   Graduate Teaching Assistant
 University of Washington - Human Centered Design and Engineering</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://rohan20k.github.io/about/project/</link>
+      <link>https://rohan20k.github.io/project/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rohan20k.github.io/about/project/</guid>
+      <guid>https://rohan20k.github.io/project/</guid>
       <description>PROJECTS   Corporate Slide-Deck Research Project Data Science Researcher, Role University of Washington | Jun 2020 - Present Seattle, Washington, United States</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://rohan20k.github.io/about/testimonial/</link>
+      <link>https://rohan20k.github.io/testimonial/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rohan20k.github.io/about/testimonial/</guid>
+      <guid>https://rohan20k.github.io/testimonial/</guid>
       <description>TESTIMONIALS   Miranda Belarde-Lewis
 Associate Professor at University of Washington - Information School</description>
     </item>
     
     <item>
-      <title>Hello There 👋 . It&#39;s Great to have you here GOD</title>
-      <link>https://rohan20k.github.io/about/post/hello/</link>
+      <title>Hello There 👋 . It&#39;s Great to have you here</title>
+      <link>https://rohan20k.github.io/post/hello/</link>
       <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rohan20k.github.io/about/post/hello/</guid>
+      <guid>https://rohan20k.github.io/post/hello/</guid>
       <description>Watch out this space for my blogs related to my projects, work experience and some cool topics and check out this post as a guide to this website.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://rohan20k.github.io/about/about/</link>
+      <link>https://rohan20k.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rohan20k.github.io/about/about/</guid>
+      <guid>https://rohan20k.github.io/about/</guid>
       <description>ABOUT ME Hello! I Rohan Khurana, and I&amp;rsquo;m a graduate student pursuing a Master of Science degree in Information Management University of Washington, Seattle pursuing a specialisation in Data Science.</description>
     </item>
     

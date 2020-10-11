@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Rohan Khurana</title>
-    <link>https://rohan20k.github.io/about/tags/index/</link>
+    <link>https://rohan20k.github.io/tags/index/</link>
     <description>Recent content in index on Rohan Khurana</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rohan20k.github.io/about/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://rohan20k.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>https://rohan20k.github.io/about/post/</link>
+      <link>https://rohan20k.github.io/post/</link>
       <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rohan20k.github.io/about/post/</guid>
+      <guid>https://rohan20k.github.io/post/</guid>
       <description></description>
     </item>
     
