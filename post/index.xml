@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Rohan Khurana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rohan20k.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rohan20k.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello There 👋 . It&#39;s Great to have you here, this is a detailed walktrhrough for my Credit Card Approval Predictor project</title>
+      <link>https://rohan20k.github.io/post/credit-card-approval-predictor-project/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rohan20k.github.io/post/credit-card-approval-predictor-project/</guid>
+      <description>Predicting Credit Card Request Approval Introduction NAME = &amp;#39;final_notebook&amp;#39; PROJECT = &amp;#39;predicting_credit_card_approvals&amp;#39; PYTHON_VERSION = &amp;#39;3.</description>
+    </item>
+    
     <item>
       <title>Hello There 👋 . It&#39;s Great to have you here</title>
       <link>https://rohan20k.github.io/post/hello/</link>
