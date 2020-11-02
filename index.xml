@@ -8,12 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rohan20k.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello There 👋 . It&#39;s Great to have you here, this is a detailed walktrhrough for my Credit Card Approval Predictor project</title>
-      <link>https://rohan20k.github.io/post/credit-card-approval-predictor-project/</link>
+      <title>Hello There 👋 . It&#39;s Great to have you here</title>
+      <link>https://rohan20k.github.io/post/hello/</link>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       
+      <guid>https://rohan20k.github.io/post/hello/</guid>
+      <description>Watch out this space for my blogs related to my projects, work experience and some cool topics and check out this post as a guide to this website.</description>
+    </item>
+    
+    <item>
+      <title>Credit Card Approval Predictor Project Walkthrough</title>
+      <link>https://rohan20k.github.io/post/credit-card-approval-predictor-project/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://rohan20k.github.io/post/credit-card-approval-predictor-project/</guid>
-      <description>Predicting Credit Card Request Approval Introduction NAME = &amp;#39;final_notebook&amp;#39; PROJECT = &amp;#39;predicting_credit_card_approvals&amp;#39; PYTHON_VERSION = &amp;#39;3.</description>
+      <description>I have created this project to explore my curiosity and to get a taste of how commercial banks 🏦 accept or reject applications requesting credit cards using the power of Machine Learning.</description>
     </item>
     
     <item>
@@ -43,15 +52,6 @@ University of Washington - Human Centered Design and Engineering</description>
       <guid>https://rohan20k.github.io/testimonial/</guid>
       <description>TESTIMONIALS   Miranda Belarde-Lewis
 Associate Professor at University of Washington - Information School</description>
-    </item>
-    
-    <item>
-      <title>Hello There 👋 . It&#39;s Great to have you here</title>
-      <link>https://rohan20k.github.io/post/hello/</link>
-      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://rohan20k.github.io/post/hello/</guid>
-      <description>Watch out this space for my blogs related to my projects, work experience and some cool topics and check out this post as a guide to this website.</description>
     </item>
     
     <item>
